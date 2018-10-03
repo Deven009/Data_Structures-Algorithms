@@ -9,3 +9,5 @@ int sequentialSearch(T a[], int n,const T& x)
         else  // 找到
             return i;
 }
+
+

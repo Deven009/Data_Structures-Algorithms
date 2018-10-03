@@ -1,3 +1,5 @@
+#include<iostream>
+
 template<class T>
 void selectionSort(T a[], int n)
 {
